@@ -1,3 +1,4 @@
+# Projeto EBOOK Gerado por I.A.s
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
 </p>
@@ -17,7 +18,7 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Titulo - Corações de Gondor
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
@@ -25,7 +26,8 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="./assets/cover.png" title="View PDF now"> 📕 Clique aqui para ler</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
